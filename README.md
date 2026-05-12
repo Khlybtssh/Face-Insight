@@ -96,8 +96,8 @@ face-rego-main/
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/<your-username>/face-rego.git
-cd face-rego
+git clone https://github.com/Khlybtssh/Face-Insight.git
+cd Face-Insight
 pip install -r requirements.txt
 ```
 
